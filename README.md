@@ -47,10 +47,10 @@
 - [x] Vulnerability discovered (2026-02-07)
 - [x] On-chain forensics completed (2026-02-07)
 - [x] Advisory drafted (2026-02-07)
-- [ ] Submitted to vendor
+- [x] Submitted to vendor (2026-02-07, security@gempad.app)
 - [ ] Vendor acknowledgment received
 - [ ] Vendor remediation confirmed
-- [ ] Public disclosure
+- [x] Public disclosure (2026-05-08, 90-day period elapsed)
 
 ---
 
